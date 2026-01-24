@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Inconnu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=8CCEFF&center=true&vCenter=true&width=600&lines=Hobby+Developer;C%23+%7C+.NET+9+%7C+Python+%7C+Java" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=8CCEFF&center=true&vCenter=true&width=600&lines=MEOW!;C%23+%7C+.NET+9+%7C+Python+%7C+Java" />
 </p>
 
 <p align="center">
@@ -10,19 +10,14 @@
 
 ---
 
-## 🧩 A bit about me
-I am a hobby developer who enjoys creating game related features.  Coding is the place where I experiment learn and build things simply because I want to
+## A bit about me
+I am a developer who enjoys creating game related features. Coding is the place where I experiment learn and build things simply because I want to
 
 ---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,git,linux,sublime" />
 </p>
-
----
-
-## 📦 What I Do?
-Feels like I just do whatever I want. I'm too stubborn to stop, so I end up fixing stuff all night but honestly once everythings fixed kinda lose interest
 
 ---
 
@@ -34,5 +29,3 @@ Feels like I just do whatever I want. I'm too stubborn to stop, so I end up fixi
 
 ---
 
-## 📌 Current Focus  
-I am learning a bit of C++ and exploring databases but only at a very basic level for now
