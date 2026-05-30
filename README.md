@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://edgecats.net/random" width="220"/>
+  <img src="https://api.thecatapi.com/v1/images/search?format=src&mime_types=gif" width="220"/>
 </p>
 
 ---
