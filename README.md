@@ -24,7 +24,7 @@ I am a developer who enjoys creating game related features. Coding is the place 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inconnu1337&theme=react-dark&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Inconnu1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Inconnu1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
