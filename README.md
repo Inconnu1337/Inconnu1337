@@ -10,11 +10,6 @@
 
 ---
 
-## A bit about me
-I am a developer who enjoys creating game related features. Coding is the place where I experiment learn and build things simply because I want to
-
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,git,linux,sublime" />
 </p>
